@@ -1,0 +1,16 @@
+div {
+    display: block;
+    padding: 5px;
+}
+
+button {
+    margin: 10px
+}
+
+label {
+    padding-right: 10px;
+}
+
+#focusInput {
+    width: 20px;
+}
